@@ -1,4 +1,10 @@
-## 项目地址：https://github.com/tianxm/data_analysis_hw/tree/main/team_01/city-fiscal-gap-analysis
+
+## [城市财政缺口分析总结报告](/output/城市财政缺口分析总结报告.md)
+
+
+
+## 小组成员：
+田先明，倪贺，蔡一艺，邱彩珊，郎若禹，宫兵，钟达焕，秦佳伟
 
 
 ## 任务分工
@@ -9,3 +15,7 @@
 5. 指标计算	                    郎若禹
 6. 北上广深四个城市以及珠三角和长三角城市的gap_to_gdp 的对比分析	宫兵，钟达焕
 7. 从城市房地产开发和销售角度分析 gap_to_gdp 的地区差异和时序特征	田先明，秦佳伟
+
+
+
+## 项目地址：https://github.com/tianxm/data_analysis_hw/tree/main/team_01/city-fiscal-gap-analysis
